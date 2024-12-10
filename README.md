@@ -1,6 +1,8 @@
 Adding IP Address
 
-- `ip addr add 10.22.30.44/16 dev wlan2`
+```bash
+ip addr add 10.22.30.44/16 dev wlan2
+```
 
 Deleting/Removing IP Address
 
